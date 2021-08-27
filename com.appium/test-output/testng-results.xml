@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="297051" started-at="2021-05-29T09:49:30 IST" finished-at="2021-05-29T09:54:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="297051" started-at="2021-05-29T09:49:30 IST" finished-at="2021-05-29T09:54:27 IST">
+      <class name="com.appium.Scripts.AjioWishlistScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioWishlistScript@2781e022]" name="LaunchApp" is-config="true" duration-ms="31042" started-at="2021-05-29T09:52:27 IST" finished-at="2021-05-29T09:52:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioWishlistTest()[pri:0, instance:com.appium.Scripts.AjioWishlistScript@2781e022]" name="AjioWishlistTest" duration-ms="9194" started-at="2021-05-29T09:52:58 IST" finished-at="2021-05-29T09:53:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioWishlistTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioWishlistScript@2781e022]" name="CloseApp" is-config="true" duration-ms="4869" started-at="2021-05-29T09:53:07 IST" finished-at="2021-05-29T09:53:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioWishlistScript -->
+      <class name="com.appium.Scripts.AjioHomeScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioHomeScript@4232c52b]" name="LaunchApp" is-config="true" duration-ms="26329" started-at="2021-05-29T09:53:52 IST" finished-at="2021-05-29T09:54:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioHomeTest()[pri:0, instance:com.appium.Scripts.AjioHomeScript@4232c52b]" name="AjioHomeTest" duration-ms="7786" started-at="2021-05-29T09:54:18 IST" finished-at="2021-05-29T09:54:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioHomeTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioHomeScript@4232c52b]" name="CloseApp" is-config="true" duration-ms="885" started-at="2021-05-29T09:54:26 IST" finished-at="2021-05-29T09:54:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioHomeScript -->
+      <class name="com.appium.Scripts.AjioBagScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioBagScript@704a52ec]" name="LaunchApp" is-config="true" duration-ms="28928" started-at="2021-05-29T09:50:27 IST" finished-at="2021-05-29T09:50:56 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioSearchProductTest()[pri:0, instance:com.appium.Scripts.AjioBagScript@704a52ec]" name="AjioSearchProductTest" duration-ms="8665" started-at="2021-05-29T09:50:56 IST" finished-at="2021-05-29T09:51:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioSearchProductTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioBagScript@704a52ec]" name="CloseApp" is-config="true" duration-ms="617" started-at="2021-05-29T09:51:04 IST" finished-at="2021-05-29T09:51:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioBagScript -->
+      <class name="com.appium.Scripts.AjioKidsScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioKidsScript@57e1b0c]" name="LaunchApp" is-config="true" duration-ms="30814" started-at="2021-05-29T09:53:12 IST" finished-at="2021-05-29T09:53:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioKidsTest()[pri:0, instance:com.appium.Scripts.AjioKidsScript@57e1b0c]" name="AjioKidsTest" duration-ms="8616" started-at="2021-05-29T09:53:43 IST" finished-at="2021-05-29T09:53:51 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioKidsTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioKidsScript@57e1b0c]" name="CloseApp" is-config="true" duration-ms="786" started-at="2021-05-29T09:53:51 IST" finished-at="2021-05-29T09:53:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioKidsScript -->
+      <class name="com.appium.Scripts.AjioStoresScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioStoresScript@4493d195]" name="LaunchApp" is-config="true" duration-ms="28399" started-at="2021-05-29T09:51:48 IST" finished-at="2021-05-29T09:52:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioStoresTest()[pri:0, instance:com.appium.Scripts.AjioStoresScript@4493d195]" name="AjioStoresTest" duration-ms="9653" started-at="2021-05-29T09:52:16 IST" finished-at="2021-05-29T09:52:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioStoresTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioStoresScript@4493d195]" name="CloseApp" is-config="true" duration-ms="1071" started-at="2021-05-29T09:52:26 IST" finished-at="2021-05-29T09:52:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioStoresScript -->
+      <class name="com.appium.Scripts.AjioSearchProductScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioSearchProductScript@6ee52dcd]" name="LaunchApp" is-config="true" duration-ms="33636" started-at="2021-05-29T09:51:05 IST" finished-at="2021-05-29T09:51:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioSearchProductTest()[pri:0, instance:com.appium.Scripts.AjioSearchProductScript@6ee52dcd]" name="AjioSearchProductTest" duration-ms="8213" started-at="2021-05-29T09:51:39 IST" finished-at="2021-05-29T09:51:47 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioSearchProductTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioSearchProductScript@6ee52dcd]" name="CloseApp" is-config="true" duration-ms="631" started-at="2021-05-29T09:51:47 IST" finished-at="2021-05-29T09:51:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioSearchProductScript -->
+      <class name="com.appium.Scripts.AjioAccountScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.appium.Scripts.AjioAccountScript@76f2b07d]" name="LaunchApp" is-config="true" duration-ms="46427" started-at="2021-05-29T09:49:30 IST" finished-at="2021-05-29T09:50:16 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="AjioAccountTest()[pri:0, instance:com.appium.Scripts.AjioAccountScript@76f2b07d]" name="AjioAccountTest" duration-ms="9348" started-at="2021-05-29T09:50:16 IST" finished-at="2021-05-29T09:50:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioAccountTest -->
+        <test-method status="PASS" signature="CloseApp()[pri:0, instance:com.appium.Scripts.AjioAccountScript@76f2b07d]" name="CloseApp" is-config="true" duration-ms="1126" started-at="2021-05-29T09:50:26 IST" finished-at="2021-05-29T09:50:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseApp -->
+      </class> <!-- com.appium.Scripts.AjioAccountScript -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
