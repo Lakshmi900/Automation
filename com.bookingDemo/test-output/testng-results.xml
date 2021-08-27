@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32168" started-at="2021-03-29T06:58:00 IST" finished-at="2021-03-29T06:58:32 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32168" started-at="2021-03-29T06:58:00 IST" finished-at="2021-03-29T06:58:32 IST">
+      <class name="com.booking.Scripts.HotelbookingScript">
+        <test-method status="PASS" signature="LaunchApp()[pri:0, instance:com.booking.Scripts.HotelbookingScript@63e2203c]" name="LaunchApp" is-config="true" duration-ms="18992" started-at="2021-03-29T06:57:41 IST" finished-at="2021-03-29T06:58:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method status="PASS" signature="HotelBookingTest()[pri:0, instance:com.booking.Scripts.HotelbookingScript@63e2203c]" name="HotelBookingTest" duration-ms="32073" started-at="2021-03-29T06:58:00 IST" finished-at="2021-03-29T06:58:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HotelBookingTest -->
+      </class> <!-- com.booking.Scripts.HotelbookingScript -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
